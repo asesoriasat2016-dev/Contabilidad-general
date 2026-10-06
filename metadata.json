@@ -1,0 +1,6 @@
+{
+  "name": "Simulador Contable y Financiero Docente",
+  "description": "Herramienta pedagógica integral de contabilidad y finanzas: constitución empresarial, balance de apertura, inventarios Kardex, cartera, provisiones, nómina, ajustes y estados financieros bajo NIIF con notas explicativas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
